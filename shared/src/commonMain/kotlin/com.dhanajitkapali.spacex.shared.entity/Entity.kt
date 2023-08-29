@@ -1,4 +1,4 @@
-package com.dhanajitkapali.spacex
+package com.dhanajitkapali.spacex.shared.entity
 import kotlinx.datetime.TimeZone
 import kotlinx.datetime.toInstant
 import kotlinx.datetime.toLocalDateTime
